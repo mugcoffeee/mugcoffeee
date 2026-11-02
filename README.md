@@ -48,28 +48,6 @@ I value **precision in code**, **clarity in design**, and **impact in execution*
 →  Every system should be simpler than you think it needs to be.
 ```
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-| Profile Details |
-| :---: | 
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mngmajid&theme=github_dark" width="400" /> | 
-
-| Productivity | Activity Graph |
-| :---: | :---: |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mngmajid&theme=github_dark" width="400" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mngmajid&theme=github_dark" width="400" /> |
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mngmajid&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### 🔗 Connect
 
 <div align="center">
